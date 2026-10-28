@@ -41,6 +41,6 @@ Each check runs on its own. If a cmdlet or property behaves differently in your 
 - **Entra SMS MFA Exit Kit: Top 5**: Microsoft retires its SMS/voice MFA on 1 Feb 2027 → https://github.com/runbooklabhq/entra-sms-mfa-exit-kit-free
 
 ## Complete kit
-All 24 controls plus an AI acceptable-use policy template, rollout comms and pilot success measures: https://runbooklab.gumroad.com/l/copilot-readiness-kit?utm_source=github&utm_campaign=copilot-free-repo
+All 24 controls (site access reviews, sensitivity labels, DLP for Copilot, retention, audit, agent settings, DSPM for AI) plus an AI acceptable-use policy template, rollout emails and pilot measures: https://runbooklab.gumroad.com/l/copilot-readiness-kit?utm_source=github&utm_campaign=copilot-free-repo
 
 MIT licence. Not affiliated with or endorsed by Microsoft. Test changes on a pilot site or group first.
