@@ -1,5 +1,9 @@
 # M365 Copilot Readiness Kit: Top 5 (free)
 
+[![M365 Copilot Readiness Kit: Top 5 (free)](assets/cover.png)](https://runbooklabhq.com/kits/copilot-readiness/)
+
+**[Every control on the kit page](https://runbooklabhq.com/kits/copilot-readiness/)** · [Microsoft 365 deadline calendar](https://runbooklabhq.com/guides/deadlines/) · [Runbook Lab](https://runbooklabhq.com/)
+
 Microsoft 365 Copilot answers from everything a user can already open. If a finance folder is shared with "Everyone except external users", Copilot will happily quote it to anyone who asks. These five controls find that oversharing, hide the worst sites while you fix them, and make new sharing narrow by default. They follow the order of Microsoft's own Copilot oversharing blueprint.
 
 | File | What it is |
